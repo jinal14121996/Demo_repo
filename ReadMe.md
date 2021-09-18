@@ -1,3 +1,4 @@
 # Project Title
 
-Description
+description
+Detailed description.
