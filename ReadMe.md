@@ -3,13 +3,6 @@
 description
 Detailed description.
 
-## subheader
+## feature
 
-
-## local development 
-
-open index.html
-
-## try feature
-
-  1. trial
+1. added feature branch for trial
